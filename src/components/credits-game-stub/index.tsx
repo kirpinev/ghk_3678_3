@@ -30,7 +30,7 @@ export const CreditsGameStub = () => {
       </div>
 
       <div className={styles.button}>
-        <ButtonMobile block view="primary" href="alfabank://dashboard/">
+        <ButtonMobile block view="primary" href="alfabank:///dashboard">
           На главный
         </ButtonMobile>
       </div>
